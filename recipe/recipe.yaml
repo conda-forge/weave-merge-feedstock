@@ -1,5 +1,5 @@
 context:
-  version: "0.5.4"
+  version: "0.6.2"
 
 package:
   name: weave-merge
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Ataraxy-Labs/weave/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: e5a2da626bb329b7ad38cbd206dc9cf67e30be719e84900d45415d448da76af7
+  sha256: e1370c274d4981dda7f4f1dacb834ff4bf5ee1f8b0a820259fc4b3e9348974e0
 
 build:
   number: 0
